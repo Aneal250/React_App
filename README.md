@@ -7,8 +7,8 @@
 
 ## Getting Started with Create React App
 
-# `npm start`
+### `npm start`
 
-# `npm install` to install all the dependencies
+### `npm install` to install all the dependencies
 
-# Open on your browser using the url localhost:3000
+### Open on your browser using the url localhost:3000
