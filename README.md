@@ -1,6 +1,6 @@
 
 
-##£ App Name: Clock Display 
+## App Name: Clock Display 
 
 This is a Simple React Application That Displays the Current Time in HH : MM : SS Format.
 
